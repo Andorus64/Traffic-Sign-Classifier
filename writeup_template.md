@@ -133,7 +133,7 @@ Here are five German traffic signs that I found on the web:
 ![alt text][image4] ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
 
-All of the images were identified accurately.
+The signs are taken in different lighting and cover different amounts of the whole image. For example, the stop sign does not span across the whole image whereas the general caution sign does. Also the right turn sign is slightly angled and darker at the top than it is at the bottom. The others should be easier to identify.
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
